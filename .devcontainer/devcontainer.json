@@ -40,11 +40,11 @@
   },
 
   "portsAttributes": {
-    "1234": {
+    "3000": {
       "label": "Application",
       "onAutoForward": "openPreview"
     }
   },
 
-  "forwardPorts": [1234]
+  "forwardPorts": [3000]
 }
